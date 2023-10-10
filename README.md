@@ -7,6 +7,7 @@ follow this link to test the app live:
 - [react-Typescript-Calculator-App](https://react-typescript-calculator-app.netlify.app)
 
 ## Replicating the app to use locally
+
 You need nodeJs installed on your local device before you can use this app
 
 - To use this app locally, clone the repository:
@@ -15,15 +16,17 @@ You need nodeJs installed on your local device before you can use this app
 git clone https://github.com/elijaharhinful/react-calculator-app
 ```
 
-- Then install the app using: 
+- Then install the app using:
 
-```npm install
+```
+npm install
 ```
 
 - To run the app, enter:
 
-```npm run dev
+```
+npm run dev
 ```
 
-- The app will be running live on your localhost. 
-For example: localhost:${port}
+- The app will be running live on your localhost:${port}.
+  For example: localhost:3000
